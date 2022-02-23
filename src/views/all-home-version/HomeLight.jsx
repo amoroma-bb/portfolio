@@ -41,8 +41,7 @@ const HomeLight = () => {
           <div className="edina_tm_title">
             <h3>Portfolio</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              ipsum sit nibh amet egestas tellus.
+              Here are some projects I did.
             </p>
           </div>
           {/* End edian_tm_title */}
@@ -56,8 +55,7 @@ const HomeLight = () => {
           <div className="edina_tm_title">
             <h3>Testimonials</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              ipsum sit nibh amet egestas tellus.
+              ...
             </p>
           </div>
           {/* End edian_tm_title */}
@@ -75,8 +73,7 @@ const HomeLight = () => {
           <div className="edina_tm_title">
             <h3>Blog</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              ipsum sit nibh amet egestas tellus.
+              Some articles about technology or my own experience.
             </p>
           </div>
           {/* End edian_tm_title */}

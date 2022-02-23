@@ -37,13 +37,13 @@ const Portfolio = () => {
             <div className="list_inner">
               <div className="image">
                 <a
-                  href="https://www.behance.net/ib-themes"
+                  href="https://react-e-commerce-project-chuxuan.netlify.app/"
                   target="_blank"
                   rel="noreferrer"
                   className="details"
                 >
                   <img
-                    src="img/portfolio/1.jpg"
+                    src="img/portfolio/p1.png"
                     data-tip
                     data-for="product"
                     alt="portfolio"
@@ -56,8 +56,8 @@ const Portfolio = () => {
                     className="tooltip-wrapper"
                   >
                     <div>
-                      <h5>Behance Profile</h5>
-                      <span>Product</span>
+                      <h5>E-Commerce</h5>
+                      <span>Web App</span>
                     </div>
                   </ReactTooltip>
                 </a>
@@ -70,13 +70,13 @@ const Portfolio = () => {
             <div className="list_inner">
               <div className="image">
                 <a
-                  href="https://dribbble.com/ib-themes"
+                  href="https://githubusersearch-react.netlify.app/"
                   target="_blank"
                   rel="noreferrer"
                   className="details"
                 >
                   <img
-                    src="img/portfolio/2.jpg"
+                    src="img/portfolio/p2.png"
                     data-tip
                     data-for="dribbble"
                     alt="portfolio"
@@ -89,8 +89,8 @@ const Portfolio = () => {
                     className="tooltip-wrapper"
                   >
                     <div>
-                      <h5>Dribbble Shot</h5>
-                      <span>Dribbble</span>
+                      <h5>Github User Search</h5>
+                      <span>Web App</span>
                     </div>
                   </ReactTooltip>
                 </a>
@@ -103,13 +103,13 @@ const Portfolio = () => {
             <div className="list_inner">
               <div className="image">
                 <a
-                  href="https://www.facebook.com/ibthemes/?show_switched_toast=0&show_switched_tooltip=0&show_podcast_settings=0"
+                  href="https://github.com/amoroma-bb/SkimLit-NLP-TensorFlow"
                   target="_blank"
                   rel="noreferrer"
                   className="details"
                 >
                   <img
-                    src="img/portfolio/3.jpg"
+                    src="img/portfolio/p3.png"
                     data-tip
                     data-for="facebook"
                     alt="portfolio"
@@ -122,8 +122,8 @@ const Portfolio = () => {
                     className="tooltip-wrapper"
                   >
                     <div>
-                      <h5>Facebook Shot</h5>
-                      <span>Facebbok</span>
+                      <h5>SkimLit</h5>
+                      <span>NLP</span>
                     </div>
                   </ReactTooltip>
                 </a>
@@ -136,16 +136,16 @@ const Portfolio = () => {
             <div className="list_inner">
               <div className="image">
                 <a
-                  href="https://www.youtube.com/channel/UC09n4DQMWRMURVw1ZlBoHKg/videos"
+                  href="https://github.com/amoroma-bb/IMDb_Scrap_EDA_DV_ML"
                   target="_blank"
                   rel="noreferrer"
                   className="details"
                 >
                   <img
-                    src="img/portfolio/4.jpg"
+                    src="img/portfolio/p4.png"
                     data-tip
-                    data-for="youtube"
-                    alt="portfolio"
+                    data-for="IMDb"
+                    alt="Data Analytics"
                   />
                   <ReactTooltip
                     id="youtube"
@@ -169,13 +169,13 @@ const Portfolio = () => {
             <div className="list_inner">
               <div className="image">
                 <a
-                  href="https://dribbble.com/shots/16529407-Deski-Saas-Software-React-Template"
+                  href="https://github.com/amoroma-bb/timeseries_BTC/blob/main/Time_series_tensorflow.ipynb"
                   target="_blank"
                   rel="noreferrer"
                   className="details"
                 >
                   <img
-                    src="img/portfolio/5.jpg"
+                    src="img/portfolio/p5.png"
                     data-tip
                     data-for="web"
                     alt="portfolio"
@@ -188,8 +188,8 @@ const Portfolio = () => {
                     className="tooltip-wrapper"
                   >
                     <div>
-                      <h5>Web Apps Shot</h5>
-                      <span>Web Apps</span>
+                      <h5>BTC Predict</h5>
+                      <span>Time Series</span>
                     </div>
                   </ReactTooltip>
                 </a>
